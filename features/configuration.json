@@ -1,0 +1,13 @@
+{ 
+	"$schema": "https://raw.githubusercontent.com/liferay/liferay-js-toolkit/master/resources/schemas/configuration.schema.json",
+	"system": {
+		"category": "my-crud-react-app", 
+		"name": "my-crud-react-app",
+		"fields": { 
+		} 
+	},
+	"portletInstance": {
+		"fields": { 
+		} 
+	}
+}
